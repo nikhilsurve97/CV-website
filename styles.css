@@ -1,0 +1,171 @@
+a{
+    color: #11999E;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: none;
+    line-height: 2;
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 3px;
+    
+}
+   
+.bottom-cloud{
+    position: absolute;
+}
+
+.certificate{
+    margin: 20px auto 20px auto;
+    width: 50%;
+    text-align: left;
+
+}
+
+.certificate-img{
+    width: 10rem;
+    border-radius: 60%;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    float: right;
+}
+
+.copyright{
+    color: #EAF6f6;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+
+.footer-link{
+    color:#174040;
+    padding: 5px;
+    margin: 5px;
+    line-height: 3;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    color: #eaf6f6;
+}
+
+h1{
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0px auto;
+}
+
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: bold;
+}
+
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #11999E;
+    font-size:1.5rem;
+    font-weight: bolder;
+}
+
+hr{
+    border: grey dotted 6px;
+    border-bottom: none;
+    width: 3%;
+    margin: 200px auto 200px auto;
+}
+
+.hello{
+    font-size: bolder;
+    margin: 40px auto 20px 300px ;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.intro{
+    margin: 20px auto 20px 300px;
+    width: 50%;
+    text-align: right;
+    line-height: 2.5;
+}
+
+li{
+    list-style-position: inside;
+    list-style: none;
+    margin: 4px;
+    padding: 4px;
+}
+
+.name{
+    text-decoration: none;
+}
+
+.profile{
+    margin: 20px auto 20px auto;
+    width: 50%;
+    text-align: left;
+
+}
+.profile-img{
+    width: 10rem;
+    border-radius: 60%;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    float: left;
+
+}
+
+.skills-img{
+    width: 10rem;
+    border-radius: 60%;
+    margin: 20px auto 20px auto;
+}
+
+
+.skill{
+    text-align: center;
+    margin: auto;
+    color: #66BFBF;
+}
+
+.stars{
+    color: rgb(235, 103, 96);
+}
+.top{
+    background-color: rgb(232, 242, 239);
+    background-size: cover;
+    background-position: center center;
+}
+
+.top-cloud{
+    position: relative;
+    right:200px;
+    margin-top: 20px;
+}
+
+table{
+    background-color: rgb(243, 252, 249);
+    border: 2px solid #9ed7d7;
+    padding: 10px;
+    line-height: 5;
+    font-size: 1.2rem;
+    width: 100%;
+    font-weight: bold;
+
+}
+.value{
+    color: #66bfbf;
+    text-decoration: underline;
+}
+
+.value-img{
+    width: 1rem;
+}
